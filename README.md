@@ -41,3 +41,5 @@ https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-millise
 https://cdn.oreillystatic.com/en/assets/1/event/122/Linux%20perf%20tools%20Presentation.pdf
 
 
+# Slide
+https://cdn.oreillystatic.com/en/assets/1/event/122/Linux%20perf%20tools%20Presentation.pdf
