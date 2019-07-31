@@ -43,3 +43,8 @@ https://cdn.oreillystatic.com/en/assets/1/event/122/Linux%20perf%20tools%20Prese
 
 # Slide
 https://cdn.oreillystatic.com/en/assets/1/event/122/Linux%20perf%20tools%20Presentation.pdf
+
+# Monitoring cloud platform
+http://getvector.io/docs/
+https://pcp.io/man/
+https://github.com/Netflix/atlas
