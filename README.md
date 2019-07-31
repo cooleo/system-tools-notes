@@ -1,6 +1,9 @@
 # system-tools-notes
 System, ops tools note
 
+# Linux performance
+http://www.brendangregg.com/linuxperf.html
+
 ![Image description](http://www.brendangregg.com/Perf/linux_perf_tools_full_1000.jpg)
 
 ![Image description](http://www.brendangregg.com/Perf/linux_observability_tools.png)
