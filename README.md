@@ -19,4 +19,10 @@ http://www.brendangregg.com/ebpf.html
 # DTrace
 http://dtrace.org/guide/dtrace-ebook.pdf
 
+# Network
+https://www.tecmint.com/linux-network-bandwidth-monitoring-tools/
+
+# Performance 
+https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+
 
