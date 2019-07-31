@@ -48,3 +48,9 @@ https://cdn.oreillystatic.com/en/assets/1/event/122/Linux%20perf%20tools%20Prese
 http://getvector.io/docs/
 https://pcp.io/man/
 https://github.com/Netflix/atlas
+
+# Distributed Tracing Tools
+
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf
+https://spring.io/projects/spring-cloud-sleuth
+https://github.com/spring-cloud/spring-cloud-sleuth
