@@ -1,7 +1,16 @@
 # system-tools-notes
 System, ops tools note
 
-![Image description](https://miro.medium.com/max/500/1*nwNScSVlCA8lGl75YdA5hQ.png)
+![Image description](http://www.brendangregg.com/Perf/linux_perf_tools_full_1000.jpg)
+
+![Image description](http://www.brendangregg.com/Perf/linux_observability_tools.png)
+![Image description](http://www.brendangregg.com/Perf/linux_static_tools_333.png)
+![Image description](http://www.brendangregg.com/Perf/linux_benchmarking_tools_333.png)
+![Image description](http://www.brendangregg.com/Perf/linux_tuning_tools_333.png)
+![Image description](http://www.brendangregg.com/Perf/linux_observability_sar_333.png)
+![Image description](http://www.brendangregg.com/Perf/perf-tools_2016_333.png)
+![Image description](http://www.brendangregg.com/Perf/bcc_tracing_tools_2016_333.png)
+
 
 ![Image description](http://www.brendangregg.com/BPF/bcc_tracing_tools_early2019.png)
 
