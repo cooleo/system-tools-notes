@@ -54,3 +54,8 @@ https://github.com/Netflix/atlas
 https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf
 https://spring.io/projects/spring-cloud-sleuth
 https://github.com/spring-cloud/spring-cloud-sleuth
+
+# Network, System programming
+
+http://tumregels.github.io/Network-Programming-with-Go/
+https://github.com/PacktPublishing/Go-Systems-Programming
