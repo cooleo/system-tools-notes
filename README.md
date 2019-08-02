@@ -65,5 +65,8 @@ https://github.com/PacktPublishing/Go-Systems-Programming
 # Code coreutils Linux:
 
 https://github.com/coreutils/coreutils
+# Linux command
+
 https://github.com/torvalds/linux/blob/master/kernel/fork.c
+https://github.com/torvalds/linux/blob/master/net/ipv4/ping.c
 
