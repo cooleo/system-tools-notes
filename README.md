@@ -76,3 +76,23 @@ https://erg.abdn.ac.uk/users/gorry/course/inet-pages/icmp.html
 # Official Java Source code:
 http://hg.openjdk.java.net/
 
+# How telnet working 
+Overview of Telnet
+The Telecommunication Network Protocol (Telnet) is derived from ARPANET released in 1969. It is the earliest Internet application.
+
+A Telnet connection is a Transmission Control Protocol (TCP) connection used to transmit data with interspersed Telnet control information. Telnet uses the client/server model to present an interactive interface that enables a terminal to remotely log in to a server. A user can log in to one host and then use Telnet to remotely log in to and configure and manage multiple hosts without having to connect each one to a terminal. Figure 3-1 shows the Telnet client/server model.
+
+Figure 3-1  Telnet client/server model 
+
+In Figure 3-1:
+
+![Image description](https://download.huawei.com/mdl/imgDownload?uuid=c50a20f739544a83a354dd5e3a0c71ef.png)
+
+Telnet uses TCP for transmission.
+
+All Telnet echo information is displayed on the terminal.
+
+The server directly interacts with the pseudo terminal.
+
+The server and client transmit commands and data over the TCP connection.
+
