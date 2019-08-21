@@ -116,3 +116,8 @@ https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryptio
 # PERF system
 
 https://kernel-recipes.org/en/2017/talks/perf-in-netflix/
+
+# Perf events
+http://www.brendangregg.com/perf.html
+https://github.com/brendangregg/perf-tools
+https://github.com/torvalds/linux/tree/master/tools/perf
