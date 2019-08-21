@@ -108,6 +108,7 @@ https://en.wikipedia.org/wiki/AWK
 https://github.com/mxssl/sre-interview-prep-guide
 https://blog.balthazar-rouberol.com/preparing-the-sre-interview
 https://github.com/mxssl/sre-interview-prep-guide
+https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview
 
 # How SSH work
 
