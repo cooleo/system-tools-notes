@@ -103,3 +103,6 @@ https://www.thegeekstuff.com/2010/02/get-source-code-for-any-linux-command/
 
 http://www.grymoire.com/Unix/Awk.html
 https://en.wikipedia.org/wiki/AWK
+
+# SRE
+https://github.com/mxssl/sre-interview-prep-guide
