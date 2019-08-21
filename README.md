@@ -106,3 +106,4 @@ https://en.wikipedia.org/wiki/AWK
 
 # SRE
 https://github.com/mxssl/sre-interview-prep-guide
+https://blog.balthazar-rouberol.com/preparing-the-sre-interview
