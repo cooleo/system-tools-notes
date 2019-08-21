@@ -98,3 +98,8 @@ The server and client transmit commands and data over the TCP connection.
 
 # Linux command's source code
 https://www.thegeekstuff.com/2010/02/get-source-code-for-any-linux-command/
+
+# AWK
+
+http://www.grymoire.com/Unix/Awk.html
+https://en.wikipedia.org/wiki/AWK
