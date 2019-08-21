@@ -112,3 +112,7 @@ https://github.com/mxssl/sre-interview-prep-guide
 # How SSH work
 
 https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+
+# PERF system
+
+https://kernel-recipes.org/en/2017/talks/perf-in-netflix/
