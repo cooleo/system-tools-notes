@@ -136,7 +136,9 @@ https://linuxhint.com/fork-system-call-linux/
 https://arxiv.org/pdf/1506.00449.pdf
 https://www.sciencedirect.com/topics/computer-science/hadoop-distributed-file-system
 https://repository.stcloudstate.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=csit_etds
-
+#  Kernel
+https://doc.lagout.org/operating%20system%20/linux/Linux%20Kernel%20Development%2C%203rd%20Edition.pdf
+https://cse.yeditepe.edu.tr/~kserdaroglu/spring2014/cse331/termproject/BOOKS/ProfessionalLinuxKernelArchitecture-WolfgangMauerer.pdf
 # Caching
 
 https://puncsky.com/notes/49-facebook-tao
