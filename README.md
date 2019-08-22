@@ -123,3 +123,10 @@ https://kernel-recipes.org/en/2017/talks/perf-in-netflix/
 http://www.brendangregg.com/perf.html
 https://github.com/brendangregg/perf-tools
 https://github.com/torvalds/linux/tree/master/tools/perf
+
+# System call
+http://profile.iiita.ac.in/bibhas.ghoshal/lab_files/System%20calls%20for%20files%20and%20directories%20in%20Linux.html
+geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+https://www.tutorialspoint.com/what-are-system-calls-in-operating-system
+# System call C run in linux
+https://linuxhint.com/fork-system-call-linux/
