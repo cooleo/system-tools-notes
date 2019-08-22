@@ -136,3 +136,8 @@ https://linuxhint.com/fork-system-call-linux/
 https://arxiv.org/pdf/1506.00449.pdf
 https://www.sciencedirect.com/topics/computer-science/hadoop-distributed-file-system
 https://repository.stcloudstate.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=csit_etds
+
+# Caching
+
+https://puncsky.com/notes/49-facebook-tao
+
