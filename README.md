@@ -139,6 +139,8 @@ https://repository.stcloudstate.edu/cgi/viewcontent.cgi?referer=https://www.goog
 #  Kernel
 https://doc.lagout.org/operating%20system%20/linux/Linux%20Kernel%20Development%2C%203rd%20Edition.pdf
 https://cse.yeditepe.edu.tr/~kserdaroglu/spring2014/cse331/termproject/BOOKS/ProfessionalLinuxKernelArchitecture-WolfgangMauerer.pdf
+http://johnchukwuma.com/training/UnderstandingTheLinuxKernel3rdEdition.pdf
+
 # Caching
 
 https://puncsky.com/notes/49-facebook-tao
