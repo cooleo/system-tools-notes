@@ -1,3 +1,5 @@
+<code>
+
 1. top – Process activity monitoring command
 top command display Linux processes. It provides a dynamic real-time view of a running system i.e. actual process activity. By default, it displays the most CPU-intensive tasks running on the server and updates the list every five seconds.
 
@@ -19,6 +21,7 @@ How do I Find Out Linux CPU Utilization?
 
 2. vmstat – Virtual memory statistics
 The vmstat command reports information about processes, memory, paging, block IO, traps, and cpu activity.
+
 # vmstat 3
 
 Sample Outputs:
@@ -33,6 +36,7 @@ procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu-----
  0  0      0 2538444 522188 5130588    0    0     0     0 1187 1417  4  1 96  0  0
  0  0      0 2490060 522188 5130640    0    0     0    18 1253 1123  5  1 94  0  0
 Display Memory Utilization Slabinfo
+
 # vmstat -m
 
 Get Information About Active / Inactive Memory Pages
@@ -433,4 +437,5 @@ GKrellM – It can be used to monitor the status of CPUs, main memory, hard disk
 mtr – mtr combines the functionality of the traceroute and ping programs in a single network diagnostic tool.
 vtop – graphical terminal activity monitor on Linux
 gtop – Awesome system monitoring dashboard for Linux/macOS Unix terminal
-Did I miss something? Please add your favorite system motoring tool in the comments.
+
+</code>
