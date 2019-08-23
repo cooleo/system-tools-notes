@@ -1,1 +1,1 @@
-https://github.com/iovisor/bcc/blob/master/docs/tutorial.md
+https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
